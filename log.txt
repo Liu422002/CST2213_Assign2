@@ -1,0 +1,15 @@
+2026-02-20 08:15:23 INFO User login successful: user@example.com from IP 192.168.1.10
+2026-02-20 08:17:45 WARN Failed login attempt for admin@company.ca
+2026-02-20 08:20:01 INFO Password reset requested by support@my-site.io
+2026-02-20 08:25:12 ERROR Email delivery failed to bob.smith@business.org
+2026-02-20 08:30:44 INFO Contact updated: alice_johnson123@gmail.com
+2026-02-20 08:35:22 INFO Admin access granted to admin@company.ca
+2026-02-20 08:40:33 WARN Suspicious activity from test.user+dev@school.edu
+2026-02-20 08:45:10 INFO Backup completed successfully
+2026-02-20 08:50:55 ERROR Invalid email detected: invalid-email@.com
+2026-02-20 08:55:02 INFO Notification sent to hr.department@enterprise.net
+2026-02-20 09:00:17 INFO User logout: user@example.com
+2026-02-20 09:05:43 WARN Retry email delivery to support@my-site.io
+2026-02-20 09:10:28 INFO Account created: new_user99@startup.co
+2026-02-20 09:15:59 ERROR Cannot send report to finance-team@corp
+2026-02-20 09:20:12 INFO System check completed
